@@ -1,0 +1,97 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "asjathnayil@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 779179777",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+90155882500"
+      }
+      
+    ],
+    "socialItems": [
+      {
+        "platform": "Instagram",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://www.instagram.com/accounts/login/?hl=en"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+  {
+    "title": "Bandaranayake College 2021 - 2023",
+    "description": "Completed high school education at Bandaranayake College, focusing on science and mathematics streams. Actively participated in extracurricular activities including coding clubs, debate competitions, and community service projects. Developed strong analytical and problem-solving skills while maintaining consistent academic performance. Gained exposure to foundational concepts in computer science, programming, and modern digital technologies."
+  },
+  {
+    "title": "KDU 2023 - Current",
+    "description": "Currently pursuing an undergraduate degree in Computer Science at KDU, with a focus on software development, web technologies, and emerging fields like artificial intelligence and machine learning. Engaged in collaborative projects, hackathons, and research initiatives to apply theoretical knowledge to real-world solutions. Actively developing technical skills, learning new frameworks, and enhancing problem-solving and project management abilities."
+  }
+],
+
+    "skills": [
+  {
+    "name": "JavaScript",
+    "icon": "/images/home/education-skill/js_5968292.png",
+    "rating": 5
+  },
+  {
+    "name": "Java",
+    "icon": "/images/home/education-skill/java_5968231.png",
+    "rating": 4
+  },
+  {
+    "name": "C++",
+    "icon": "/images/home/education-skill/c_919841.png",
+    "rating": 4
+  },
+  {
+    "name": "HTML",
+    "icon": "/images/home/education-skill/html_12256347.png",
+    "rating": 5
+  },
+  {
+    "name": "CSS",
+    "icon": "/images/home/education-skill/css-3_5968242.png",
+    "rating": 5
+  },
+  {
+    "name": "PHP",
+    "icon": "/images/home/education-skill/php_5968332.png",
+    "rating": 3
+  }
+]
+
+  },
+  "contactLinks": {
+   
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "asjathnayil@gmail.com",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 779179777",
+        "link": "tel:+90155882500"
+      }
+    ]
+  }
+}
